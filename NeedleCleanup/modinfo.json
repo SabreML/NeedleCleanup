@@ -1,0 +1,8 @@
+{
+    "id": "sabreml.needlecleanup",
+    "name": "Needle Cleanup",
+    "version": "1.0.0",
+    "target_game_version": "v1.9.03",
+    "authors": "SabreML",
+    "description": "Removes any leftover Spearmaster spears in a shelter at the start of each cycle."
+}
