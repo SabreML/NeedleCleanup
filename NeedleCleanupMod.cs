@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace NeedleCleanup
 {
-	[BepInPlugin("sabreml.needlecleanup", "NeedleCleanup", "1.0")]
+	[BepInPlugin("sabreml.needlecleanup", "NeedleCleanup", "1.0.0")]
 	public class NeedleCleanupMod : BaseUnityPlugin
 	{
 		public void OnEnable()

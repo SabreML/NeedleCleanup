@@ -66,6 +66,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy /Y "$(TargetPath)" "$(RainWorldSteam)\RainWorld_Data\StreamingAssets\mods\needlecleanup\plugins"</PostBuildEvent>
+    <PostBuildEvent>copy /Y "$(TargetPath)" "$(RainWorldSteam)\RainWorld_Data\StreamingAssets\mods\$(ProjectName)\plugins"</PostBuildEvent>
   </PropertyGroup>
 </Project>
