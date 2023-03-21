@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71A75ADD-0FAA-423D-BE47-2B30F82DBA5E}"
 	ProjectSection(SolutionItems) = preProject
 		NeedleCleanup\modinfo.json = NeedleCleanup\modinfo.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
