@@ -1,6 +1,6 @@
 # Needle Cleanup
 <p align="center">
-  <img width="640" height="360" src="https://user-images.githubusercontent.com/57483089/216777952-35e6913c-294a-43c7-8927-a0de38eaceb4.png">
+  <img width="640" height="360" src="https://user-images.githubusercontent.com/57483089/233479607-4c6a5e79-6b66-469b-b3ea-ef9006e030d6.png">
   <br/>
   (Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2928334935)
 </p>
