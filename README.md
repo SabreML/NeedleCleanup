@@ -9,6 +9,8 @@
 
 Needle Cleanup is a mod for Rain World which removes any leftover Spearmaster spears in a shelter at the start of each cycle.
 
+<b><ins>Note:</ins> As of Rain World v1.9.14, this mod has been officially added to the Downpour expansion!</b>
+
 ## Installation:
 1. Download the mod from the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2928334935).
     - **OR:** Move the `needlecleanup` folder inside the zip file to `\Steam\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods`
